@@ -1,0 +1,41 @@
+p {
+  font-family: Roboto;
+  color: white;
+}
+
+.fish {
+  width: 100%;
+  height: 600px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  border: rgba(251, 255, 0) 8px solid;
+}
+
+.nem {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+  font-family: DynaPuff;
+  color: rgb(251, 255, 0);
+
+}
+
+h1 {
+  text-align: center;
+  font-family: DynaPuff;
+  font-size: 3rem;
+  margin: 0;
+  color: rgb(255, 166, 0);
+}
+
+.container2 {
+  text-align: center;
+  border-bottom: solid 8px rgb(251, 255, 0);
+  background-image: url(/nemo/images/nemocart.webp);
+}
+
